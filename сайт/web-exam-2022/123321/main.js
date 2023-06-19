@@ -1,6 +1,6 @@
 let apiKey = "eb3e7937-3673-4b44-b7b4-d266e8503ef3";
 let apiUrl =
-    "http://exam-2022-1-api.std-900.ist.mospolytech.ru/api/restaurants";
+    "";
 let restaurantsJson;
 let selectedRestaurant;
 let setsJson;
