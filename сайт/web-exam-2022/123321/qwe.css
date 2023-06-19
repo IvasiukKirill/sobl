@@ -1,0 +1,35 @@
+.alert {
+    position:fixed; 
+    top: 0px; 
+    left: 0px; 
+    width: 100%;
+    z-index:9999; 
+    border-radius:0px;
+    background-color: yellow;
+}
+
+.carousel-item img {
+    /* max-height: 400px; */
+    object-fit: cover;
+    max-height: 700px;
+    
+    
+    /* max-width: 400px; */
+}
+.card img {
+    
+    height: 300px;
+}
+
+.modal-body img {
+    max-height: 100px;
+    max-width: 120px;
+}
+
+.modal {
+    background-color: #5d2f00;
+}
+
+thead {
+    background-color: rgb(97, 97, 97);
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "img": "./images/maco.jpg",
+        "name": "Макароны",
+        "description": "Вкусные рожки"
+    },
+    {
+        "img": "./images/plov.jpg",
+        "name": "Плов",
+        "description": "Вкусный, мощный, из барашка"
+    },
+    {
+        "img": "./images/Borshh.jpg",
+        "name": "Борщ",
+        "description": "Со сметанкой от бабушки"
+    },
+    {
+        "img": "./images/kotleta.jpg",
+        "name": "Пюре с котлетой",
+        "description": "Прям как в детве бабушка готовила"
+    },
+    {
+        "img": "./images/Syp.jpg",
+        "name": "Куриный супчик",
+        "description": "Помогает переболеть ковидом"
+    },
+    {
+        "img": "./images/wawlyk.jpg",
+        "name": "Шашлык",
+        "description": "Готовил сам Кадыров"
+    },
+    {
+        "img": "./images/burger.jpg",
+        "name": "Биг бургер",
+        "description": "Больше чем двойной Биг Тейсти"
+    },
+    {
+        "img": "./images/waverma.jpg",
+        "name": "Шаверма",
+        "description": "Скажи спасибо, что не из кошки"
+    },
+    {
+        "img": "./images/assorti.jpg",
+        "name": "Асорти",
+        "description": "Под пивко, самое то"
+    },
+    {
+        "img": "./images/vareniki.jpg",
+        "name": "Вареники",
+        "description": "Лепила моя бабушка"
+    }
+]
